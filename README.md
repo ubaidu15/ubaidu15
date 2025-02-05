@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ubaidu based out of Chicago, USA</h1>
 <h3 align="center">A tech enthusiast who loves exploring and experimenting in the field of Computer Science and Data Science!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubaidu15" alt="ubaidu15" /></a> </p>
-
 - 🔭 I’m currently working on **Machine Learning Models**
 
 - 🌱 I’m currently learning **Software and Data Science Frameworks to apply in models**
@@ -21,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ubaidu15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ubaidu15" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ubaidu15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ubaidu15" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ubaidu15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ubaidu15" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ubaidu15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ubaidu15" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ubaidu15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ubaidu15" height="30" width="40" /></a>
