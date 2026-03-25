@@ -1,21 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ubaidu based out of Chicago, USA</h1>
 <h3 align="center">I'm a pioneer and tech enthusiast deep in the field of AI Product Innovation and Development. With vast hands-on experience in data-driven product development, I build intelligent systems that turn complex data into real-world impact. From ideation to deployment, I bridge the gap between cutting-edge AI research and scalable product solutions — driven by a passion for pushing what's possible with machine learning, automation, and human-centered design.</h3>
 
-- 🔭 I'm currently working on **Machine Learning Models**
+- 🧠 I architect and build **end-to-end AI products** — from prototype to production — for clients across industries looking to harness the power of intelligent systems
 
-- 🌱 I'm currently learning **Software and Data Science Frameworks to apply in models**
+- 🤖 I leverage **Claude, GPT, and open-source LLMs** to build autonomous agents, retrieval-augmented generation (RAG) pipelines, and conversational AI systems that solve real business problems
 
-- 👯 I'm looking to collaborate on **Projects at the intersection of Data Science and Artificial Intelligence**
+- 🏗️ I design and deploy **enterprise-grade data architecture and ETL/ELT pipelines** that transform raw, unstructured data into decision-ready intelligence at scale
 
-- 👨‍💻 All of my projects are available at [https://github.com/ubaidu15](https://github.com/ubaidu15)
+- 🚀 I build **full-stack AI services and microservices** engineered for high throughput, low latency, and horizontal scalability — from inference APIs to real-time streaming platforms
 
-- 📝 I regularly write articles on [Twitter](Twitter)
+- 📊 I develop **data-driven product strategies** for businesses, translating complex analytics into actionable roadmaps that drive revenue, retention, and operational efficiency
 
-- 💬 Ask me about **Anything Tech and cafes in Chicago**
+- 🔬 I contribute to and leverage **open-source AI frameworks** — PyTorch, LangChain, Hugging Face, and more — to rapidly prototype and ship production-ready ML solutions
 
-- 📫 How to reach me **ubaidu@uchicago.edu**
+- 🛠️ I set up **MLOps and CI/CD infrastructure** for model training, versioning, evaluation, and deployment — ensuring reproducibility and continuous improvement across the ML lifecycle
 
-- ⚡ Fun fact **I can speak 6 languages Duh!**
+- 💡 I consult with clients to **identify high-impact AI use cases**, scope MVPs, and deliver innovation products that create measurable competitive advantage
+
+- 🌐 I build **scalable cloud-native architectures** on AWS, GCP, and Azure — orchestrating containerized workloads, serverless functions, and GPU clusters for distributed model training and serving
+
+- 📈 I implement **real-time analytics dashboards and monitoring systems** that give businesses full observability into their data pipelines, model performance, and product KPIs
 
 <h3 align="left">Most Used Languages:</h3>
 <p align="left">
