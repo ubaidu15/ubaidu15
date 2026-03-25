@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ubaidu based out of Chicago, USA</h1>
-<h3 align="center">A tech enthusiast who loves exploring and experimenting in the field of Computer Science and Data Science!</h3>
+<h3 align="center">I'm a pioneer and tech enthusiast deep in the field of AI Product Innovation and Development. With vast hands-on experience in data-driven product development, I build intelligent systems that turn complex data into real-world impact. From ideation to deployment, I bridge the gap between cutting-edge AI research and scalable product solutions — driven by a passion for pushing what's possible with machine learning, automation, and human-centered design.</h3>
 
 - 🔭 I'm currently working on **Machine Learning Models**
 
