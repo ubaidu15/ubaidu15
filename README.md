@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ubaidu based out of Chicago, USA</h1>
-<h3 align="center">I'm a pioneer, tech enthusiast, AI, Data, and Analytics Hands on Leader in the field of AI Product Innovation, Data and Development. With vast hands-on experience in data-driven product development, I build intelligent systems that turn complex data into real-world impact. From ideation to deployment, I bridge the gap between cutting-edge AI research and scalable product solutions driven by a passion for pushing what's possible with machine learning, automation, and human-centered design. <hr> </hr>
+<h3 align="center">I'm a Hands on Tech Leader in AI, Data, and Analytics at the intersection building end to end Data foundations for Product Innovations and Development. With vast hands-on experience in data-driven product development, I build intelligent systems that turn complex data into real-world impact. From ideation to deployment, I bridge the gap between cutting-edge AI research and scalable product solutions driven by a passion for pushing what's possible with machine learning, automation, and human-centered design. <hr> </hr>
 
-I have extensive experience in building production-grade AI systems that combine frontier models, agentic workflows, and scalable software engineering. With 8+ years of experience across full-stack development, distributed systems, cloud architecture, and AI engineering, I specialize in turning emerging AI capabilities into reliable products used in real-world environments.
+I have extensive experience in building production-grade Data and AI systems that combine Data, frontier models, agentic workflows, and scalable software engineering. With 8+ years of experience across Data Products, full-stack development, distributed systems, cloud architecture, and AI engineering, I specialize in turning emerging AI capabilities into reliable products used in real-world environments.
 
 </h3>
 
 
-* 🧠 I build end-to-end AI products powered by large language models, agentic architectures, and retrieval-augmented generation systems — taking ideas from prototype to production with scalable application design, robust APIs, and cloud-native infrastructure.
+* 🧠 I build end-to-end Data and AI products powered by large language models, agentic architectures, and retrieval-augmented generation systems — taking ideas from prototype to production with scalable application design, robust APIs, and cloud-native infrastructure.
 
-* 🤖 I engineer autonomous AI workflows using frontier and open-source models, enabling agents to reason, use tools, retrieve knowledge, execute tasks, and collaborate across complex business processes through reliable orchestration patterns.
+* 🤖 I engineer autonomous Data and AI workflows using frontier and open-source models, enabling agents to reason, use tools, retrieve knowledge, execute tasks, and collaborate across complex business processes through reliable orchestration patterns.
 
 * 🔍 I design advanced RAG and knowledge intelligence systems with hybrid retrieval, embeddings, vector databases, reranking, query optimization, citation grounding, and evaluation frameworks to deliver accurate and trustworthy AI experiences.
 
